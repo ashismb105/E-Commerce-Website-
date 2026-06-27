@@ -4,7 +4,7 @@ This is a full-stack e-commerce web application developed using PHP and MySQL. I
 
 # PHP E-Commerce Website
 
-Simple PHP + MySQL e-commerce project.
+PHP + MySQL e-commerce project.
 
 ## Features
 - Product listing
