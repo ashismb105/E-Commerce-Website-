@@ -36,6 +36,7 @@ $result = mysqli_query($conn, "SELECT * FROM products");
 
 <h1>Products</h1>
 
+
 ##  index.php (Product List
 <?php while($row = mysqli_fetch_assoc($result)) { ?>
 
